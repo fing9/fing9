@@ -1,6 +1,7 @@
 # KIM SEONG MIN
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffing9&count_bg=%23FDDB27&title_bg=%2300B1D2&icon=&icon_color=%23FFD8D8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FEFEFE?style=flat&logo=Naver&logoColor=03C75A"/></a>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fin)](https://solved.ac/fin)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fing9&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
