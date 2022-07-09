@@ -4,7 +4,7 @@
 <a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FEFEFE?style=flat&logo=Naver&logoColor=03C75A"/></a>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fin)](https://solved.ac/fin)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fing9&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fin)](https://solved.ac/profile/fin)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fing9&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 🤔🤔🤔
 
 
