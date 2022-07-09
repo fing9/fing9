@@ -3,7 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffing9&count_bg=%23FDDB27&title_bg=%2300B1D2&icon=&icon_color=%23FFD8D8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FEFEFE?style=flat&logo=Naver&logoColor=03C75A"/></a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fin)](https://solved.ac/fin/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fin)](https://solved.ac/fin)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fing9&layout=compact&theme=onedark)
 🤔🤔🤔
 
 
