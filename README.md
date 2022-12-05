@@ -17,6 +17,7 @@
   <br>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23-000000C?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <br>
@@ -42,7 +43,7 @@
   <strong><u>Tools</u>
   <br>
   <img src="https://img.shields.io/badge/clion-000000?style=for-the-badge&logo=clion&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
@@ -50,7 +51,7 @@
   <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <br><br>
   
   <strong><u>Collaboration tools</u>
@@ -69,9 +70,10 @@
     
   <strong><u>Interested in</u>
   <br>
+  <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/virtual box-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
   <br><br>
