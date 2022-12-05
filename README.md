@@ -1,4 +1,8 @@
-# KIM SEONG MIN
+## [github@fing9 ~]$ who
+<div align=center>
+  <strong><t>fing9 pts/1      2018-03-01 00:00 (Sejong univ.Computer.Engineering.3.2)</t>
+</div>
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffing9&count_bg=%23FDDB27&title_bg=%2300B1D2&icon=&icon_color=%23FFD8D8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FEFEFE?style=flat&logo=Naver&logoColor=03C75A"/></a>
