@@ -3,12 +3,27 @@
   <strong><t>fing9    pts/1   2022-03-01 00:00 (Sejong univ.Computer.Engineering.3.2)</t>
 </div>
 <br>
+🐾 So far
+<div> Incheon National University - 2018.03 ~ 2022.02</div>
+<div> Sejong University - 2022.03 ~ ...</div>
+<div> Interface - 2022.06 ~ ...</div>
+<br>
+🏆 Trophy & Qualification
+<div> 2021 - 인천대학교 매트랩 Cody 챌린지 : 우수상</div>
+<div> 2022 - 세종대학교 TOSC SW코딩역량평가 : 1급 (C언어, 500점)</div>
+<div> 2023 - 삼성 SDS SW검정 : Professional 등급</div>
+<br>
+⌨ Projects
+<div> Sorae.gg 리그오브레전드 전적 검색 사이트 프로젝트 - Backend (Cheerleader)</div>
+<div> 조구만 스튜디오 클론 사이트 프로젝트 - Backend (leader)</div>
+<div> 세종대학교 학술 동아리 Interface 공식 어플 프로젝트 - Server Backend (leader)</div>
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffing9&count_bg=%23FDDB27&title_bg=%2300B1D2&icon=&icon_color=%23FFD8D8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FEFEFE?style=flat&logo=Naver&logoColor=03C75A"/></a>
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fin)](https://solved.ac/fin)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fing9&layout=compact&theme=onedark)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fing9&layout=compact&theme=onedark) -->
 
 ## 🛠️Stacks
 <div align=center>
