@@ -101,7 +101,5 @@
 
 <br>
 <div align=center> 
-  <div> 좋아하는 것 : 🍟 🍔 🍞 </div>
-  
   🤔🤔🤔
 </div>
