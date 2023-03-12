@@ -1,12 +1,14 @@
 ## [fing9@github ~]$ who | grep fing9
 <div>
-  <strong><t>fing9    pts/1   2022-03-01 00:00 (Sejong univ.Computer.Engineering.3.2)</t>
+  <strong><t>fing9    pts/1   2022-03-01 00:00 (Sejong univ.Computer.Engineering.4.1)</t>
 </div>
 <br>
 🐾 So far
 <div> Incheon National University - 2018.03 ~ 2022.02</div>
 <div> Sejong University - 2022.03 ~ ...</div>
 <div> Interface - 2022.06 ~ ...</div>
+<div> Alom - 2023.03 ~ ...</div>
+<div> 42Seoul - 2023.03 ~ ...</div>
 <br>
 🏆 Trophy & Qualification
 <div> 2021 - 인천대학교 매트랩 Cody 챌린지 : 우수상</div>
