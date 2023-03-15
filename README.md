@@ -26,7 +26,7 @@
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fin)](https://solved.ac/fin)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fing9&layout=compact&theme=onedark) -->
-
+[![seongmik's 42 stats](https://badge42.vercel.app/api/v2/clf90w5pq000609l8ivi6q6fa/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 ## 🛠️Stacks
 <div align=center>
   <br>
