@@ -6,7 +6,7 @@
 🐾 So far
 <div> Incheon National University - 2018.03 ~ 2022.02</div>
 <div> Sejong University - 2022.03 ~ ...</div>
-<div> Interface - 2022.06 ~ ...</div>
+<div> Interface - 2022.06 ~ 2023.06</div>
 <div> Alom - 2023.03 ~ ...</div>
 <div> 42Seoul - 2023.03 ~ ...</div>
 <br>
@@ -19,6 +19,7 @@
 <div> Sorae.gg 리그오브레전드 전적 검색 사이트 프로젝트 - Backend (Cheerleader)</div>
 <div> 조구만 스튜디오 클론 사이트 프로젝트 - Backend (leader)</div>
 <div> 세종대학교 학술 동아리 Interface 공식 어플 프로젝트 - Server Backend (leader)</div>
+<div> 스와이프 광진구 음식점 추천 어플 CherryPicker - Server Backend (Backend leader) </div>
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffing9&count_bg=%23FDDB27&title_bg=%2300B1D2&icon=&icon_color=%23FFD8D8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
