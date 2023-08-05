@@ -3,6 +3,11 @@
   <strong><t>fing9    pts/1   2022-03-01 00:00 (Sejong univ.Computer.Engineering.4.1)</t>
 </div>
 <br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffing9&count_bg=%232FC5FF&title_bg=%23DBDBDB&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgoodbyefin.tistory.com&count_bg=%235A84FF&title_bg=%23DBDBDB&icon=wordpress.svg&icon_color=%231620ED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
+<a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FEFEFE?style=flat&title_bg=%23DBDBDB&logo=wordpress&logoColor=%231620ED"/></a><br>
+<br>
 🐾 So far
 <div> Incheon National University - 2018.03 ~ 2022.02</div>
 <div> Sejong University - 2022.03 ~ ...</div>
@@ -22,12 +27,10 @@
 <div> 세종대 음식점 스와이프 추천 어플 CherryPicker - Server Backend (Backend leader) </div>
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffing9&count_bg=%23FDDB27&title_bg=%2300B1D2&icon=&icon_color=%23FFD8D8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FEFEFE?style=flat&logo=Naver&logoColor=03C75A"/></a>
-<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fin)](https://solved.ac/fin)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fing9&layout=compact&theme=onedark) -->
 [![seongmik's 42 stats](https://badge42.vercel.app/api/v2/clf90w5pq000609l8ivi6q6fa/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fin)](https://solved.ac/fin)
+<br>
+
 ## 🛠️Stacks
 <div align=center>
   <br>
