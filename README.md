@@ -1,6 +1,6 @@
 ## [fing9@github ~]$ who | grep fing9
 <div>
-  <strong><t>fing9    pts/1   2022-03-01 00:00 (Sejong univ.Computer.Engineering.4.1)</t>
+  <strong><t>fing9    pts/1   2022-03-01 00:00 (Sejong univ.Computer.Engineering.4.2)</t>
 </div>
 <br>
 
