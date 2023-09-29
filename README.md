@@ -59,3 +59,5 @@
 <br>
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=EC6A65&height=80&section=footer&text=&fontSize=50)
