@@ -38,12 +38,6 @@
 
 <div align="center">
 
-<div align="center">
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EC6A65&width=435&lines=About+me" alt="Typing SVG" /></a>
-  
-</div>
-
 ## 🐾 So far
 <div> Incheon National University - 2018.03 ~ 2022.02</div>
 <div> Sejong University - 2022.03 ~ 2024.02</div>
