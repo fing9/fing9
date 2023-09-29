@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=EC6A65&height=80&section=header&text=&fontSize=50)<br>
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EC6A65&width=435&lines=About+me" alt="Typing SVG" /></a>
+<br>
+</div>
+<div align="center">
 
   <img align="right" src="https://github-readme-streak-stats-swart.vercel.app?user=fing9&theme=blood&locale=ko&mode=weekly"/>
 
