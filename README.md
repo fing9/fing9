@@ -39,9 +39,9 @@
 
 ## 🐾 So far
 <div> Incheon National University - 2018.03 ~ 2022.02</div>
-<div> Sejong University - 2022.03 ~ ...</div>
+<div> Sejong University - 2022.03 ~ 2024.02</div>
 <div> Interface - 2022.06 ~ 2023.06</div>
-<div> Alom - 2023.03 ~ ...</div>
+<div> Alom - 2023.03 ~ 2023.06</div>
 <div> 42Seoul - 2023.03 ~ ...</div>
 <br>
 
