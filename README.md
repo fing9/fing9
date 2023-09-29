@@ -58,7 +58,9 @@
 <div> 세종대 음식점 스와이프 추천 어플 CherryPicker - Server Backend (Backend leader) </div>
 <div> 알고리즘 스터디 'GPGT' 스터디 사이트 - Server Backend (Backend solo) </div>
 <br>
-<img src="https://img.shields.io/badge/GPGT-276DC3?style=for-the-badge&logo=GPGT&logoColor=white">
+<a href="https://randps.kr">
+  <img src="https://img.shields.io/badge/GPGT-276DC3?style=for-the-badge&logo=GPGT&logoColor=white" href="https://randps.kr">
+</a>
 
 </div>
 
