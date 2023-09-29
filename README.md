@@ -56,6 +56,7 @@
 <div> 조구만 스튜디오 클론 사이트 프로젝트 - Backend (leader)</div>
 <div> 세종대학교 학술 동아리 Interface 공식 어플 프로젝트 - Server Backend (leader)</div>
 <div> 세종대 음식점 스와이프 추천 어플 CherryPicker - Server Backend (Backend leader) </div>
+<div> 알고리즘 스터디 'GPGT' 스터디 사이트 프로젝트 - Server Backend (Backend solo) </div>
 <br>
 
 </div>
