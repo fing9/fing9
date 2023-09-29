@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=EC6A65&height=200&section=header&text=fing9&fontSize=45)<br>
+![header](https://capsule-render.vercel.app/api?type=slice&color=EC6A65&height=150&section=header&text=fing9&fontSize=50)<br>
 <div align="center">
 
   <img align="right" src="https://github-readme-streak-stats-swart.vercel.app?user=fing9&theme=blood&locale=ko&mode=weekly"/>
