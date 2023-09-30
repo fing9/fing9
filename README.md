@@ -39,25 +39,25 @@
 <div align="center">
 
 ## 🐾 So far
-<div> Incheon National University - 2018.03 ~ 2022.02</div>
-<div> Sejong University - 2022.03 ~ 2024.02</div>
-<div> Interface - 2022.06 ~ 2023.06</div>
-<div> Alom - 2023.03 ~ 2023.06</div>
 <div> 42Seoul - 2023.03 ~ ...</div>
+<div> Alom - 2023.03 ~ 2023.06</div>
+<div> Interface - 2022.06 ~ 2023.06</div>
+<div> Sejong University - 2022.03 ~ 2024.02</div>
+<div> Incheon National University - 2018.03 ~ 2022.02</div>
 <br>
 
 ## 🏆 Trophy & Qualification
-<div> 2021 - 인천대학교 매트랩 Cody 챌린지 : 우수상</div>
-<div> 2022 - 세종대학교 TOSC SW코딩역량평가 : 1급 (C언어, 300점)</div>
 <div> 2023 - 삼성 SDS SW검정 : Professional 등급</div>
+<div> 2022 - 세종대학교 TOSC SW코딩역량평가 : 1급 (C언어, 300점)</div>
+<div> 2021 - 인천대학교 매트랩 Cody 챌린지 : 우수상</div>
 <br>
 
 ## ⌨ Projects
-<div> Sorae.gg 리그오브레전드 전적 검색 사이트 - Backend (Cheerleader)</div>
-<div> 조구만 스튜디오 클론 사이트 - Backend (leader)</div>
-<div> 세종대학교 학술 동아리 Interface 공식 어플 - Server Backend (leader)</div>
-<div> 세종대 음식점 스와이프 추천 어플 CherryPicker - Server Backend (Backend leader) </div>
-<div> 알고리즘 스터디 'GPGT' 스터디 사이트 - Server Backend (Backend solo) </div>
+<a href="https://github.com/fing9/ProblemRandomDefence"> <div> 알고리즘 스터디 'GPGT' 스터디 사이트 - Server Backend (Backend solo) </div> </a>
+<a href="https://github.com/CherryPick3r/Backend-JAVA11-SpringBoot2.7.x"> <div> 세종대 음식점 스와이프 추천 어플 CherryPicker - Server Backend (Backend leader) </div> </a>
+<a href="https://github.com/Interface-Co-Ltd/Interface-Server"> <div> 세종대학교 학술 동아리 Interface 공식 어플 - Server Backend (leader)</div> </a>
+<a href="https://github.com/fing9/dongsamo-jogumanClone"> <div> 조구만 스튜디오 클론 사이트 - Backend (leader)</div> </a>
+<a href="https://github.com/pmsu2007/Sorae.gg"> <div> Sorae.gg 리그오브레전드 전적 검색 사이트 - Backend (Cheerleader)</div> </a>
 <br>
 <a href="https://randps.kr">
   <img src="https://img.shields.io/badge/GPGT-276DC3?style=for-the-badge&logo=GPGT&logoColor=white" href="https://randps.kr">
