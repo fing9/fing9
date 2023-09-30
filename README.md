@@ -47,9 +47,9 @@
 <br>
 
 ## 🏆 Trophy & Qualification
-<div> 2023 - 삼성 SDS SW검정 : Professional 등급</div>
-<div> 2022 - 세종대학교 TOSC SW코딩역량평가 : 1급 (C언어, 300점)</div>
-<div> 2021 - 인천대학교 매트랩 Cody 챌린지 : 우수상</div>
+<div> 삼성 SDS SW검정 : Professional 등급</div>
+<div> 세종대학교 TOSC SW코딩역량평가 : 1급 (C언어, 300점)</div>
+<div> 인천대학교 매트랩 Cody 챌린지 : 우수상</div>
 <br>
 
 ## ⌨ Projects
