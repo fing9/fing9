@@ -64,6 +64,10 @@
   <img src="https://img.shields.io/badge/GPGT-276DC3?style=for-the-badge&logo=GPGT&logoColor=white" href="https://randps.kr">
 </a>
 
+## 🤝 Contribution
+<div> </div>
+<br>
+
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EC6A65&height=80&section=footer&text=&fontSize=50)
