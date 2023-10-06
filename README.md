@@ -66,6 +66,8 @@
 
 ## 🤝 Contribution
 <div> </div>
+<a href="https://github.com/julien-duponchelle/python-mysql-replication"> <div>python-mysql-replication : 공식 로고 제작</div> </a>
+<a href="https://github.com/EbookFoundation/free-programming-books"> <div>free-programming-books : Contribution.md 오역 수정 & 한국어 번역 </div> </a>
 <br>
 
 </div>
