@@ -54,6 +54,7 @@
 
 ## ⌨ Projects
 <div></div>
+<a href="https://github.com/fing9/ProblemRandomDefence"> <div> 세종대학교 AI 프로그래밍 문제 추천 사이트 'UnivPS' - Server Backend, Devops, MLops </div> </a>
 <a href="https://github.com/fing9/ProblemRandomDefence"> <div> 알고리즘 스터디 'GPGT' 스터디 사이트 - Server Backend (Backend solo) </div> </a>
 <a href="https://github.com/CherryPick3r/Backend-JAVA11-SpringBoot2.7.x"> <div> 세종대 음식점 스와이프 추천 어플 CherryPicker - Server Backend (Backend leader) </div> </a>
 <a href="https://github.com/Interface-Co-Ltd/Interface-Server"> <div> 세종대학교 학술 동아리 Interface 공식 어플 - Server Backend (leader)</div> </a>
@@ -62,6 +63,9 @@
 <br>
 <a href="https://randps.kr">
   <img src="https://img.shields.io/badge/GPGT-276DC3?style=for-the-badge&logo=GPGT&logoColor=white" href="https://randps.kr">
+</a>
+<a href="https://univps.kr">
+  <img src="https://img.shields.io/badge/Univps-b02735?style=for-the-badge&logo=Univps&logoColor=white" href="https://randps.kr">
 </a>
 
 ## 🤝 Contribution
