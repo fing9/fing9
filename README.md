@@ -12,7 +12,6 @@
 ## 📬Find me here📬
 
 <a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-EC6A65?style=flat&title_bg=%23EC6A65&logo=wordpress&logoColor=%23000000"/></a>
-<img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white"><br>
 <br>
 </div>
 
