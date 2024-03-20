@@ -53,12 +53,12 @@
 
 ## ⌨ Projects
 <div></div>
-<a href="https://github.com/fing9/ProblemRandomDefence"> <div> 세종대학교 AI 프로그래밍 문제 추천 사이트 'UnivPS' - Server Backend, Devops, MLops </div> </a>
-<a href="https://github.com/fing9/ProblemRandomDefence"> <div> 알고리즘 스터디 'GPGT' 스터디 사이트 - Server Backend (Backend solo) </div> </a>
-<a href="https://github.com/CherryPick3r/Backend-JAVA11-SpringBoot2.7.x"> <div> 세종대 음식점 스와이프 추천 어플 CherryPicker - Server Backend (Backend leader) </div> </a>
-<a href="https://github.com/Interface-Co-Ltd/Interface-Server"> <div> 세종대학교 학술 동아리 Interface 공식 어플 - Server Backend (leader)</div> </a>
-<a href="https://github.com/fing9/dongsamo-jogumanClone"> <div> 조구만 스튜디오 클론 사이트 - Backend (leader)</div> </a>
-<a href="https://github.com/pmsu2007/Sorae.gg"> <div> Sorae.gg 리그오브레전드 전적 검색 사이트 - Backend (Cheerleader)</div> </a>
+<a href="https://github.com/fing9/ProblemRandomDefence"> <div> 세종대학교 AI 프로그래밍 문제 추천 사이트 'UnivPS' - Server Back-End, Devops, MLops </div> </a>
+<a href="https://github.com/fing9/ProblemRandomDefence"> <div> 알고리즘 스터디 'GPGT' 스터디 사이트 - Server Back-End (Team Leader) </div> </a>
+<a href="https://github.com/CherryPick3r/Backend-JAVA11-SpringBoot2.7.x"> <div> 세종대 음식점 스와이프 추천 어플 CherryPicker - Server Back-End (Back-End Leader) </div> </a>
+<a href="https://github.com/Interface-Co-Ltd/Interface-Server"> <div> 세종대학교 학술 동아리 Interface 공식 어플 - Server Back-End </div> </a>
+<a href="https://github.com/fing9/dongsamo-jogumanClone"> <div> 조구만 스튜디오 클론 사이트 - Back-End </div> </a>
+<a href="https://github.com/pmsu2007/Sorae.gg"> <div> Sorae.gg 리그오브레전드 전적 검색 사이트 - Back-End </div> </a>
 <br>
 <a href="https://randps.kr">
   <img src="https://img.shields.io/badge/GPGT-276DC3?style=for-the-badge&logo=GPGT&logoColor=white" href="https://randps.kr">
