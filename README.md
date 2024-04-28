@@ -1,14 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=EC6A65&height=80&section=header&text=&fontSize=50)<br>
 
 <div align="center">
-
-  <img align="right" src="https://github-readme-streak-stats-swart.vercel.app?user=fing9&theme=blood&locale=ko&mode=weekly"/>
-
+  
 ## 🫠Seongmin🧐
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffing9&count_bg=%23EC6A65&title_bg=%23DBDBDB&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgoodbyefin.tistory.com&count_bg=%23EC6A65&title_bg=%23DBDBDB&icon=wordpress.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br><br>
 ## 📬Find me here📬
 
 <a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-EC6A65?style=flat&title_bg=%23EC6A65&logo=wordpress&logoColor=%23000000"/></a>
