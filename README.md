@@ -54,6 +54,7 @@
 
 ## ⌨ Projects
 <div></div>
+<div> 현대오토에버 x 42Seoul 연계 프로젝트 - Full-stack </div>
 <a href="https://github.com/fing9/ProblemRandomDefence"> <div> 세종대학교 AI 프로그래밍 문제 추천 사이트 'UnivPS' - Server Back-End, Devops, MLops </div> </a>
 <a href="https://github.com/fing9/ProblemRandomDefence"> <div> 알고리즘 스터디 'GPGT' 스터디 사이트 - Server Back-End (Team Leader) </div> </a>
 <a href="https://github.com/CherryPick3r/Backend-JAVA11-SpringBoot2.7.x"> <div> 세종대 음식점 스와이프 추천 어플 CherryPicker - Server Back-End (Back-End Leader) </div> </a>
