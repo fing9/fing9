@@ -39,7 +39,7 @@
 <div align="center">
 
 ## 🐾 So far
-<div> 42Seoul - 2023.03 ~ 2025.04.21</div>
+<div> 42Seoul - 2023.03 ~ 2025.04</div>
 <div> Alom - 2023.03 ~ 2023.06</div>
 <div> Interface - 2022.06 ~ 2023.06</div>
 <div> Sejong University - 2022.03 ~ 2024.02</div>
