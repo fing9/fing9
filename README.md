@@ -4,18 +4,21 @@
   
 ## 🫠Seongmin🧐
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffing9&count_bg=%23EC6A65&title_bg=%23DBDBDB&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgoodbyefin.tistory.com&count_bg=%23EC6A65&title_bg=%23DBDBDB&icon=wordpress.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<center>
+  <a href="https://solved.ac/profile/fin"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=fin"></a>
+</center>
+
 ## 📬Find me here📬
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffing9&count_bg=%23EC6A65&title_bg=%23DBDBDB&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgoodbyefin.tistory.com&count_bg=%23EC6A65&title_bg=%23DBDBDB&icon=wordpress.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-EC6A65?style=flat&title_bg=%23EC6A65&logo=wordpress&logoColor=%23000000"/></a>
 <br>
 </div>
-
-<div align="right">
   
-  ## 🛠️Stacks_______________
-  <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fin"/>
+<div align="center">
+  
+  ## 🛠️Stacks
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white"><br>
@@ -75,5 +78,7 @@
 <br>
 
 </div>
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EC6A65&height=80&section=footer&text=&fontSize=50)
