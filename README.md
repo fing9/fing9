@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## 🫠Seongmin🧐
+## 👋 Seongmin
 
 <center>
   <a href="https://solved.ac/profile/fin"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=fin"></a>
@@ -15,8 +15,27 @@
 <a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-EC6A65?style=flat&title_bg=%23EC6A65&logo=wordpress&logoColor=%23000000"/></a>
 <br>
 </div>
-  
+
 <div align="center">
+
+
+## Contribute history
+<div> </div>
+
+### 🌱 Spring AI
+##### <a href="https://github.com/spring-projects/spring-ai/pull/1208">OpenAI 모듈의 toolFunctionCall 테스트 코드 리팩토링 </a>
+
+<br>
+
+### 🐍 Python Mysql Replication
+##### <a href="https://github.com/julien-duponchelle/python-mysql-replication">공식 로고 제작 </a>
+
+<br>
+
+### 📚 Free Programming Books
+##### <a href="https://github.com/EbookFoundation/free-programming-books">CONTRIBUTING-ko.md 오역 수정 & 한국어 번역 </a>
+<br>
+  
   
   ## 🛠️Stacks
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
@@ -70,23 +89,6 @@
 <a href="https://univps.kr">
   <img src="https://img.shields.io/badge/Univps-b02735?style=for-the-badge&logo=Univps&logoColor=white" href="https://randps.kr">
 </a>
-
-## Contribute history
-<div> </div>
-
-### 🌱 Spring AI
-##### <a href="https://github.com/spring-projects/spring-ai/pull/1208">OpenAI 모듈의 toolFunctionCall 테스트 코드 리팩토링 </a>
-
-<br>
-
-### 🐍 Python Mysql Replication
-##### <a href="https://github.com/julien-duponchelle/python-mysql-replication">공식 로고 제작 </a>
-
-<br>
-
-### 📚 Free Programming Books
-##### <a href="https://github.com/EbookFoundation/free-programming-books">CONTRIBUTING-ko.md 오역 수정 & 한국어 번역 </a>
-<br>
 
 </div>
 
