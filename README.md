@@ -23,17 +23,15 @@
 <div> </div>
 
 ### 🌱 Spring AI
-##### <a href="https://github.com/spring-projects/spring-ai/pull/1208">OpenAI 모듈의 toolFunctionCall 테스트 코드 리팩토링 </a>
-
+#### <a href="https://github.com/spring-projects/spring-ai/pull/1208">OpenAI 모듈의 toolFunctionCall 테스트 코드 리팩토링 </a>
 <br>
 
 ### 🐍 Python Mysql Replication
-##### <a href="https://github.com/julien-duponchelle/python-mysql-replication">공식 로고 제작 </a>
-
+#### <a href="https://github.com/julien-duponchelle/python-mysql-replication">공식 로고 제작 </a>
 <br>
 
 ### 📚 Free Programming Books
-##### <a href="https://github.com/EbookFoundation/free-programming-books">CONTRIBUTING-ko.md 오역 수정 & 한국어 번역 </a>
+#### <a href="https://github.com/EbookFoundation/free-programming-books">CONTRIBUTING-ko.md 오역 수정 & 한국어 번역 </a>
 <br>
   
   
