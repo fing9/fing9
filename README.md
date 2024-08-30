@@ -1,41 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=EC6A65&height=80&section=header&text=&fontSize=50)<br>
+## Kim SeongMin (김성민)
 
-<div align="center">
-  
-## 👋 Seongmin
-
-<center>
-  <a href="https://solved.ac/profile/fin"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=fin"></a>
-</center>
-
-## 📬Find me here📬
+### 📬Find me here📬
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffing9&count_bg=%23EC6A65&title_bg=%23DBDBDB&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgoodbyefin.tistory.com&count_bg=%23EC6A65&title_bg=%23DBDBDB&icon=wordpress.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-EC6A65?style=flat&title_bg=%23EC6A65&logo=wordpress&logoColor=%23000000"/></a>
-<br>
-</div>
 
-<div align="center">
+### 🛠️Stacks
 
-
-## Contribute history
-<div> </div>
-
-### 🌱 Spring AI
-#### <a href="https://github.com/spring-projects/spring-ai/pull/1208">OpenAI 모듈의 toolFunctionCall 테스트 코드 리팩토링 </a>
-<br>
-
-### 🐍 Python Mysql Replication
-#### <a href="https://github.com/julien-duponchelle/python-mysql-replication">공식 로고 제작 </a>
-<br>
-
-### 📚 Free Programming Books
-#### <a href="https://github.com/EbookFoundation/free-programming-books">CONTRIBUTING-ko.md 오역 수정 & 한국어 번역 </a>
-<br>
-  
-  
-  ## 🛠️Stacks
+<div>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white"><br>
@@ -53,43 +26,49 @@
   <img src="https://img.shields.io/badge/emotion-CA61B7?style=for-the-badge&logo=emotion&logoColor=white"> 
   </div>
   <br>
-  
 </div>
 
-<div align="center">
+### 🪑Career
 
-## 🐾 So far
-<div> 42Seoul - 2023.03 ~ 2025.04</div>
-<div> Alom - 2023.03 ~ 2023.06</div>
-<div> Interface - 2022.06 ~ 2023.06</div>
-<div> Sejong University - 2022.03 ~ 2024.02</div>
-<div> Incheon National University - 2018.03 ~ 2022.02</div>
+<li><b> Hyundai Autoever <sub>(24.09 ~ )</sub></b></li>
+<li><b> 42Seoul <sub>(23.03 ~ 25.04)</sub></b></li>
+<li><b> Alom <sub>(23.03 ~ 23.06)</sub></b></li>
+<li><b> Interface <sub>(22.06 ~ 23.06)</sub></b></li>
+<li><b> Sejong University <sub>(22.03 ~ 24.02)</sub></b></li>
+<li><b> Incheon National University <sub>(18.03 ~ 22.02)</sub></b></li>
+
+### ⌨ Projects
+
+<li><b><a href="https://github.com/fing9/ProblemRandomDefence"> 세종대학교 AI 프로그래밍 문제 추천 사이트 'UnivPS' </a><sub>Server Back-End, Devops, MLops</sub></b></li>
+
+<li><b><a href="https://github.com/fing9/ProblemRandomDefence"> 알고리즘 스터디 'GPGT' 스터디 사이트 </a><sub>Server Back-End (Team Leader)</sub></b></li>
+
+<li><b><a href="https://github.com/fing9/ProblemRandomDefence"> 세종대 음식점 스와이프 추천 어플 CherryPicker </a><sub>Server Back-End (Back-End Leader)</sub></b></li>
+
+<li><b><a href="https://github.com/fing9/ProblemRandomDefence"> 세종대학교 학술 동아리 Interface 공식 어플 </a><sub>Server Back-End</sub></b></li>
+
+<li><b><a href="https://github.com/fing9/ProblemRandomDefence"> 조구만 스튜디오 클론 사이트 </a><sub>Back-End</sub></b></li>
+
+<li><b><a href="https://github.com/fing9/ProblemRandomDefence"> Sorae.gg 리그오브레전드 전적 검색 사이트 </a><sub>Back-End</sub></b></li>
+
+### 🏆 Trophy & Qualification
+
+<li><b> 삼성 SDS SW검정 <sub>Professional 등급</sub></b></li>
+
+<li><b> 세종대학교 TOSC SW코딩역량평가 <sub>1급 (C언어, 300점)</sub></b></li>
+
+<li><b> 인천대학교 매트랩 Cody 챌린지 <sub>우수상</sub></b></li>
+
+### Contribute history
+
+<li><b> 🌱 Spring AI <sub><a href="https://github.com/spring-projects/spring-ai/pull/1208">OpenAI 모듈의 toolFunctionCall 테스트 코드 리팩토링 </a></sub></b></li>
+
+<li><b> 🐍 Python Mysql Replication <sub><a href="https://github.com/julien-duponchelle/python-mysql-replication">공식 로고 제작 </a></sub></b></li>
+
+<li><b> 📚 Free Programming Books <sub><a href="https://github.com/EbookFoundation/free-programming-books">CONTRIBUTING-ko.md 오역 수정 & 한국어 번역 </a></sub></b></li>
+
 <br>
 
-## 🏆 Trophy & Qualification
-<div> 삼성 SDS SW검정 : Professional 등급</div>
-<div> 세종대학교 TOSC SW코딩역량평가 : 1급 (C언어, 300점)</div>
-<div> 인천대학교 매트랩 Cody 챌린지 : 우수상</div>
-<br>
-
-## ⌨ Projects
-<div></div>
-<a href="https://github.com/fing9/ProblemRandomDefence"> <div> 세종대학교 AI 프로그래밍 문제 추천 사이트 'UnivPS' - Server Back-End, Devops, MLops </div> </a>
-<a href="https://github.com/fing9/ProblemRandomDefence"> <div> 알고리즘 스터디 'GPGT' 스터디 사이트 - Server Back-End (Team Leader) </div> </a>
-<a href="https://github.com/CherryPick3r/Backend-JAVA11-SpringBoot2.7.x"> <div> 세종대 음식점 스와이프 추천 어플 CherryPicker - Server Back-End (Back-End Leader) </div> </a>
-<a href="https://github.com/Interface-Co-Ltd/Interface-Server"> <div> 세종대학교 학술 동아리 Interface 공식 어플 - Server Back-End </div> </a>
-<a href="https://github.com/fing9/dongsamo-jogumanClone"> <div> 조구만 스튜디오 클론 사이트 - Back-End </div> </a>
-<a href="https://github.com/pmsu2007/Sorae.gg"> <div> Sorae.gg 리그오브레전드 전적 검색 사이트 - Back-End </div> </a>
-<br>
-<a href="https://randps.kr">
-  <img src="https://img.shields.io/badge/GPGT-276DC3?style=for-the-badge&logo=GPGT&logoColor=white" href="https://randps.kr">
-</a>
-<a href="https://univps.kr">
-  <img src="https://img.shields.io/badge/Univps-b02735?style=for-the-badge&logo=Univps&logoColor=white" href="https://randps.kr">
-</a>
-
-</div>
-
-
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EC6A65&height=80&section=footer&text=&fontSize=50)
+<center>
+  <a href="https://solved.ac/profile/fin"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=fin"></a>
+</center>
