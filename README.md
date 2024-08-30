@@ -1,5 +1,7 @@
 ## Kim SeongMin (김성민)
 
+<sub>Hi, I'm Back-end developer with an interest in object-oriented programming.</sub>
+
 ### 📬Find me here📬
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffing9&count_bg=%23EC6A65&title_bg=%23DBDBDB&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
