@@ -30,7 +30,7 @@
 
 ### 🪑Career
 
-<li><b> Hyundai Autoever <sub>(24.09 ~ )</sub></b></li>
+<li><b> Hyundai Autoever <sub>Back-End developer</sub> <sub>(24.09 ~ )</sub></b></li>
 <li><b> 42Seoul <sub>(23.03 ~ 25.04)</sub></b></li>
 <li><b> Alom <sub>(23.03 ~ 23.06)</sub></b></li>
 <li><b> Interface <sub>(22.06 ~ 23.06)</sub></b></li>
