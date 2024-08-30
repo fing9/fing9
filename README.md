@@ -1,6 +1,6 @@
 ## Kim SeongMin (김성민)
 
-<sub>Hi, I'm Back-end developer with an interest in object-oriented programming.</sub>
+<b><sub>Hi, I'm Back-end developer with an interest in object-oriented programming.</sub></b>
 
 ### 📬Find me here📬
 
