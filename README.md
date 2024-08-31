@@ -1,6 +1,6 @@
 ## Kim SeongMin (김성민)
 
-<b><sub>Hi, I'm Back-end developer with an focus on object-oriented programming.</sub></b>
+#### Hi, I'm Back-end developer with an focus on object-oriented programming.
 
 ### 📬 Find me here
 
