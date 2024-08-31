@@ -8,8 +8,34 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgoodbyefin.tistory.com&count_bg=%23EC6A65&title_bg=%23DBDBDB&icon=wordpress.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-EC6A65?style=flat&title_bg=%23EC6A65&logo=wordpress&logoColor=%23000000"/></a>
 
-### 🛠️ Stacks
+### 🪑 Career
 
+<li><b> Hyundai AutoEver <sub>Back-End developer</sub> <sub>(24.09 ~ )</sub></b></li>
+<li><b> 42Seoul <sub>Cadet</sub> <sub>(23.03 ~ 25.04)</sub></b></li>
+<li><b> Sejong University <sub>Department of Computer Science and Engineering</sub> <sub>(22.03 ~ 24.02)</sub></b></li>
+<li><b> Incheon National University <sub>Department of Computer Science and Engineering</sub> <sub>(18.03 ~ 22.02)</sub></b></li>
+
+### 🛠️ Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,java,python)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,bootstrap,vite,yarn,npm)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=spring,hibernate,gradle,flask)](https://skillicons.dev)
+
+#### Cloud Technologies
+[![Cloud Technologies](https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx)](https://skillicons.dev)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,redis,bash,postman)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,markdown,gitlab,vscode,figma,githubactions)
+
+<!--
 <div>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -29,13 +55,7 @@
   </div>
   <br>
 </div>
-
-### 🪑 Career
-
-<li><b> Hyundai AutoEver <sub>Back-End developer</sub> <sub>(24.09 ~ )</sub></b></li>
-<li><b> 42Seoul <sub>Cadet</sub> <sub>(23.03 ~ 25.04)</sub></b></li>
-<li><b> Sejong University <sub>Department of Computer Science and Engineering</sub> <sub>(22.03 ~ 24.02)</sub></b></li>
-<li><b> Incheon National University <sub>Department of Computer Science and Engineering</sub> <sub>(18.03 ~ 22.02)</sub></b></li>
+-->
 
 ### ⌨ Projects
 
