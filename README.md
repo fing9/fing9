@@ -21,7 +21,7 @@
 ![Languages](https://skillicons.dev/icons?i=c,cpp,js,java,python)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,bootstrap,vite,yarn,npm)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,bootstrap,emotion,vite,yarn,npm)
 
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=spring,hibernate,gradle,flask)](https://skillicons.dev)
