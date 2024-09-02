@@ -10,7 +10,7 @@
 
 ### 🪑 Career
 
-<li><b> Hyundai AutoEver <sub>Back-End developer</sub> <sub>(24.09 ~ )</sub></b></li>
+<!-- <li><b> Hyundai AutoEver <sub>Back-End developer</sub> <sub>(24.09 ~ )</sub></b></li> -->
 <li><b> 42Seoul <sub>Cadet</sub> <sub>(23.03 ~ 25.04)</sub></b></li>
 <li><b> Sejong University <sub>Department of Computer Science and Engineering</sub> <sub>(22.03 ~ 24.02)</sub></b></li>
 <li><b> Incheon National University <sub>Department of Computer Science and Engineering</sub> <sub>(18.03 ~ 22.02)</sub></b></li>
