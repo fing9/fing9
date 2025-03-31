@@ -2,10 +2,10 @@
 
 #### Hi, I'm Back-end developer with an focus on object-oriented programming.
 
-### 📬 Find me here
+### 🎙️ I'm Using
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fing9&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffing9&count_bg=%23EC6A65&title_bg=%23DBDBDB&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgoodbyefin.tistory.com&count_bg=%23EC6A65&title_bg=%23DBDBDB&icon=wordpress.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 📬 Find me here
 <a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-EC6A65?style=flat&title_bg=%23EC6A65&logo=wordpress&logoColor=%23000000"/></a>
 
 ### 🪑 Career
