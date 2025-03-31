@@ -2,9 +2,6 @@
 
 #### Hi, I'm Back-end developer with an focus on object-oriented programming.
 
-### 🎙️ I'm Using
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fing9&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📬 Find me here
 <a href="https://goodbyefin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-EC6A65?style=flat&title_bg=%23EC6A65&logo=wordpress&logoColor=%23000000"/></a>
 
@@ -57,6 +54,11 @@
 </div>
 -->
 
+
+### 🎙️ Most using
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fing9&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### ⌨ Projects
 
 <li><b><a href="https://github.com/fing9/ProblemRandomDefence"> 세종대학교 AI 프로그래밍 문제 추천 사이트 'UnivPS'</a><sub> Server Back-End, Devops, MLops</sub></b></li>
@@ -70,6 +72,7 @@
 <li><b><a href="https://github.com/fing9/ProblemRandomDefence"> 조구만 스튜디오 클론 사이트</a><sub> Back-End</sub></b></li>
 
 <li><b><a href="https://github.com/fing9/ProblemRandomDefence"> Sorae.gg 리그오브레전드 전적 검색 사이트</a><sub> Back-End</sub></b></li>
+
 
 ### 🏆 Trophy & Qualification
 
