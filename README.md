@@ -55,9 +55,6 @@
 -->
 
 
-### 🎙️ Most using
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fing9&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🏆 Trophy & Qualification
 
 <li><b> 삼성 SDS SW검정 <sub>Professional 등급</sub></b></li>
@@ -73,9 +70,3 @@
 <li><b> 🐍 Python Mysql Replication <sub><a href="https://github.com/julien-duponchelle/python-mysql-replication">공식 로고 제작 </a></sub></b></li>
 
 <li><b> 📚 Free Programming Books <sub><a href="https://github.com/EbookFoundation/free-programming-books">CONTRIBUTING-ko.md 오역 수정 & 한국어 번역 </a></sub></b></li>
-
-<br>
-
-<center>
-  <a href="https://solved.ac/profile/fin"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=fin"></a>
-</center>
